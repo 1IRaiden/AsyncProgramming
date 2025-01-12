@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\System\Асинхронное программрование\С#\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.exe
+C:\Users\user\Desktop\System\Асинхронное программрование\С#\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.deps.json
+C:\Users\user\Desktop\System\Асинхронное программрование\С#\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.runtimeconfig.json
+C:\Users\user\Desktop\System\Асинхронное программрование\С#\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.dll
+C:\Users\user\Desktop\System\Асинхронное программрование\С#\AsyncProgramming\bin\Debug\net8.0\AsyncProgramming.pdb
+C:\Users\user\Desktop\System\Асинхронное программрование\С#\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\System\Асинхронное программрование\С#\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\System\Асинхронное программрование\С#\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.AssemblyInfo.cs
+C:\Users\user\Desktop\System\Асинхронное программрование\С#\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\System\Асинхронное программрование\С#\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.sourcelink.json
+C:\Users\user\Desktop\System\Асинхронное программрование\С#\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.dll
+C:\Users\user\Desktop\System\Асинхронное программрование\С#\AsyncProgramming\obj\Debug\net8.0\refint\AsyncProgramming.dll
+C:\Users\user\Desktop\System\Асинхронное программрование\С#\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.pdb
+C:\Users\user\Desktop\System\Асинхронное программрование\С#\AsyncProgramming\obj\Debug\net8.0\AsyncProgramming.genruntimeconfig.cache
+C:\Users\user\Desktop\System\Асинхронное программрование\С#\AsyncProgramming\obj\Debug\net8.0\ref\AsyncProgramming.dll
