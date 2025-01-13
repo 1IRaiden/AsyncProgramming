@@ -36,4 +36,33 @@ namespace AsyncProgramming
             return 42;
         }
     }
+
+    internal class ReturningExceptionTask()
+    {
+        static int result = 0;
+
+        public static async Task<int> CallFunctionWithError()
+        {
+            try
+            {
+                result = await GetValueAsyncWithError();
+            }
+            catch (InvalidOperationException) 
+            {
+                Console.WriteLine("Hello world myMistake");
+            }
+
+            return result;
+        }
+
+        static async Task<int> GetValueAsyncWithError()
+        {
+            Console.WriteLine("Starting method with error...");
+            await Task.Delay(100); // Simulate some delay
+
+            throw new InvalidOperationException("Something went wrong within GetValueAsyncWithError!");
+
+            // return Task.FromException<int>(new InvalidOperationException("Something went wrong"));
+        }
+    }
 }

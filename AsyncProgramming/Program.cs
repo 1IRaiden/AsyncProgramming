@@ -23,7 +23,10 @@ namespace AsyncProgramming
     {
         static async Task Main(string[] args)
         {
-            await ReturningCompletedTask.CallCompletedTaskMethod();
+            await AsyncEnumerableExample.StartAsyncEnumerable();
+            // await ProgressExample.TestProgress();
+            // await ReturningExceptionTask.CallFunctionWithError();
+            // await ReturningCompletedTask.CallCompletedTaskMethod();
             // await TimeoutExample.CallCheckTimeOut();
             // await TaskDelayExample.CallTask();
         }
